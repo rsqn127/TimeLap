@@ -44,7 +44,7 @@ Partial Class frmMain
         '
         'btnStart
         '
-        Me.btnStart.Location = New System.Drawing.Point(332, 28)
+        Me.btnStart.Location = New System.Drawing.Point(332, 27)
         Me.btnStart.Name = "btnStart"
         Me.btnStart.Size = New System.Drawing.Size(64, 25)
         Me.btnStart.TabIndex = 0
@@ -53,12 +53,12 @@ Partial Class frmMain
         '
         'txtRecord
         '
-        Me.txtRecord.Location = New System.Drawing.Point(21, 70)
+        Me.txtRecord.Location = New System.Drawing.Point(22, 70)
         Me.txtRecord.Multiline = True
         Me.txtRecord.Name = "txtRecord"
         Me.txtRecord.ReadOnly = True
         Me.txtRecord.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
-        Me.txtRecord.Size = New System.Drawing.Size(266, 187)
+        Me.txtRecord.Size = New System.Drawing.Size(265, 187)
         Me.txtRecord.TabIndex = 6
         Me.txtRecord.TabStop = False
         '
@@ -83,7 +83,7 @@ Partial Class frmMain
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Gulim", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(129, Byte))
+        Me.Label1.Font = New System.Drawing.Font("굴림", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(129, Byte))
         Me.Label1.Location = New System.Drawing.Point(19, 32)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(53, 15)
